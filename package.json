@@ -1,6 +1,6 @@
 {
   "name": "pluggo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimal plugin framework for node.js and browsers",
   "main": "lib/pluggo.js",
   "scripts": {
