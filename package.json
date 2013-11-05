@@ -1,0 +1,30 @@
+{
+  "name": "pluggo",
+  "version": "0.0.0",
+  "description": "Minimal plugin framework for node.js and browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --ui tdd tests/basic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cappslock/pluggo.git"
+  },
+  "keywords": [
+    "plugin",
+    "plugins",
+    "broadway"
+  ],
+  "author": "Eric Capps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cappslock/pluggo/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "browserify": "~2.35.1"
+  },
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}
