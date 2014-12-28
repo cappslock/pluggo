@@ -18,4 +18,4 @@ If you're [browserifying](http://browserify.org) broadway though, you'll find th
 
 ## API
 
-See [https://github.com/flatiron/broadway#api](broadway's API docs) and pretend that the parts about detach and name aren't there. Congratulations, you have mastered Pluggo!
+See [broadway's API docs](https://github.com/flatiron/broadway#api) and pretend that the parts about detach and name aren't there. Congratulations, you have mastered Pluggo!
