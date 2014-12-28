@@ -1,6 +1,6 @@
 {
   "name": "pluggo",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Minimal plugin framework for node.js and browsers",
   "main": "lib/pluggo.js",
   "scripts": {
@@ -29,6 +29,5 @@
     "lodash.defaults": "^2.4.1",
     "mocha": "~1.14.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
