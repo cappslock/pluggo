@@ -1,7 +1,7 @@
 {
   "name": "pluggo",
   "version": "1.0.0",
-  "description": "Minimal plugin framework for node.js and browsers",
+  "description": "Broadway but smaller",
   "main": "lib/pluggo.js",
   "scripts": {
     "test": "mocha --reporter spec test/tests/**/*.js"
