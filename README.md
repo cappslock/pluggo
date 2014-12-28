@@ -4,7 +4,7 @@ Broadway but smaller
 
 ## What is this?
 
-Pluggo is a stupidly-named plugin library. You could also refer to it as a "dependency injection" or "inversion of control" library if you are feeling jaunty.
+Pluggo is a stupidly-named plugin library for Node.js and web browsers. You could also refer to it as a "dependency injection" or "inversion of control" library if you are feeling jaunty.
 
 It's based on the parts of the [broadway](https://github.com/flatiron/broadway) interface which I personally found myself using and functions more or less as a drop-in replacement.
 
